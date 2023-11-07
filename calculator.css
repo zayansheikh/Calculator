@@ -1,0 +1,19 @@
+.container{
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+}
+.button{
+    width: 53px;
+    margin: 5px 1px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#input{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    width: 234px;
+    height: 50px;
+}
